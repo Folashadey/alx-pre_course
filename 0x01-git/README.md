@@ -1,1 +1,1 @@
-network tripped
+network is still tripping
